@@ -1,5 +1,5 @@
 <!-- header -->
-<h1>Jack Greenwald—</h1>
+<h1>Jack Greenwald</h1>
 <p>
   <strong>Embedded systems & full-stack engineer</strong> building at the intersection of hardware and software —
   medical devices, real-time computer vision, and tools that actually get deployed.<br/>
@@ -27,6 +27,7 @@ Real-time fencer detection and PTZ camera control pipeline built for competitive
 
 ### R3tha Web Portal &nbsp;<img src="https://img.shields.io/badge/NeuroTechR3-a371f7?style=flat-square"/>
 > **NeuroTechR3**
+
 Patient and therapist portal for neurorehabilitation. Solo frontend build — React, Zustand state management, Axios, and real-time session review tied to a streaming backend.
 
 `TypeScript` `React` `Zustand` `Axios`
@@ -57,8 +58,6 @@ Working on improving the front-end through updating UI and UX. Improving the AI 
 
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
 ![x86-64 ASM](https://img.shields.io/badge/x86--64_ASM-555555?style=flat-square)
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-00979D?style=flat-square)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
 
 **Computer Vision & ML**
