@@ -1,9 +1,9 @@
 <!-- header -->
-<h1>Jack &nbsp;—</h1>
+<h1>Jack Greenwald—</h1>
 <p>
   <strong>Embedded systems & full-stack engineer</strong> building at the intersection of hardware and software —
   medical devices, real-time computer vision, and tools that actually get deployed.<br/>
-  Northeastern University &nbsp;·&nbsp; NJIT Vision Lab &nbsp;·&nbsp; NeuroTechR3
+  Northeastern University &nbsp;·&nbsp; NJIT AIM Lab &nbsp;·&nbsp; NeuroTechR3
 </p>
 
 <p>
@@ -14,8 +14,10 @@
 
 ---
 
-## 🔴 Featured &nbsp;·&nbsp; Fencing Tracking System
-> **NJIT Vision Lab &nbsp;·&nbsp; Active**
+## Active Projects
+
+### Fencing Tracking System
+> **NJIT AIM Lab**
 
 Real-time fencer detection and PTZ camera control pipeline built for competitive fencing. Combines YOLOv8 object detection, a GStreamer video pipeline, ONVIF PTZ control, and an HLS streaming interface with AI hit detection synced to a video timeline via Program Date Time (PDT) timestamps.
 
@@ -23,14 +25,15 @@ Real-time fencer detection and PTZ camera control pipeline built for competitive
 
 ---
 
-## Projects
-
 ### R3tha Web Portal &nbsp;<img src="https://img.shields.io/badge/NeuroTechR3-a371f7?style=flat-square"/>
+> **NeuroTechR3**
 Patient and therapist portal for neurorehabilitation. Solo frontend build — React, Zustand state management, Axios, and real-time session review tied to a streaming backend.
 
 `TypeScript` `React` `Zustand` `Axios`
 
 ---
+
+## Projects
 
 ### Brain Injury Resource Center &nbsp;<img src="https://img.shields.io/badge/Live_on_Play_Store-3DDC84?style=flat-square&logo=google-play&logoColor=white"/>
 Solo-developed mobile app for the Brain Injury Alliance of New Jersey. Maps and resources for TBI survivors and caregivers. Published to Google Play via Expo/React Native.
@@ -39,19 +42,12 @@ Solo-developed mobile app for the Brain Injury Alliance of New Jersey. Maps and 
 
 &nbsp;→ [View on Google Play](https://play.google.com/store/apps/details?id=com.anonymous.BIANJ)
 
----
+### Samaritan Scout 
+Working on improving the front-end through updating UI and UX. Improving the AI and scraper technologies involved in finding volunteer opportunities.
 
-### PLR Concussion Screening Tool &nbsp;<img src="https://img.shields.io/badge/Biomedical-d29922?style=flat-square"/>
-Non-contact pupillary light reflex measurement tool targeting sideline concussion screening. Raspberry Pi + Pi Camera Module 3 NoIR + IR LED illumination + controlled white LED stimulus.
+`TypeScript` `React` `Material UI` `RAG` `Linear` 
 
-`Python` `OpenCV` `Raspberry Pi` `Computer Vision`
-
----
-
-### STM32 Pulse Oximeter &nbsp;<img src="https://img.shields.io/badge/Embedded-8b949e?style=flat-square"/>
-FreeRTOS-based pulse oximeter on STM32F4. SPI/UART/RS485 communications, targeting IEC 62304 and ISO 14971 compliance practices for medical-grade embedded development.
-
-`C` `FreeRTOS` `STM32F4` `SPI` `UART`
+&nbsp;→ [View](https://www.samaritanscout.org/)
 
 ---
 
