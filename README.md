@@ -42,6 +42,7 @@ Solo-developed mobile app for the Brain Injury Alliance of New Jersey. Maps and 
 `TypeScript` `React Native` `Expo`
 
 &nbsp;→ [View on Google Play](https://play.google.com/store/apps/details?id=com.anonymous.BIANJ)
+&nbsp;→ [View on App Store](https://apps.apple.com/us/app/brain-injury-resource-center/id6479203061)
 
 ### Samaritan Scout 
 Working on improving the front-end through updating UI and UX. Improving the AI and scraper technologies involved in finding volunteer opportunities.
